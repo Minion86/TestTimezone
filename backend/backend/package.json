@@ -25,7 +25,7 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "@types/node": "^18.19.130"
+    "@types/node": "^26.6.5"
   },
   "engines": {
     "node": ">=22.12.0"
